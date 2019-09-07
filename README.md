@@ -1,6 +1,6 @@
 # Stock_Prediction
 
-Siraj's - Home Work for Week 2.
+Siraj's - Homework for Week 2.
 
 In this notebook, I applied 3 machine learning models;
   1. Simple Linear Regression
